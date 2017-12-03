@@ -1,0 +1,12 @@
+In category 剧情 which have 333 movies in score 9-10.
+1st: movies in 英国 have 83 movies is 24.92 percent
+2st: movies in 日本 have 74 movies is 22.22 percent
+3st: movies in 美国 have 39 movies is 11.71 percent
+In category 文艺 which have 98 movies in score 9-10.
+1st: movies in 美国 have 22 movies is 22.45 percent
+2st: movies in 法国 have 18 movies is 18.37 percent
+3st: movies in 英国 have 11 movies is 11.22 percent
+In category 科幻 which have 91 movies in score 9-10.
+1st: movies in 英国 have 37 movies is 40.66 percent
+2st: movies in 日本 have 29 movies is 31.87 percent
+3st: movies in 美国 have 19 movies is 20.88 percent
